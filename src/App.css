@@ -1,0 +1,42 @@
+
+body {
+    background: white;
+}
+
+div {
+    display: flex;
+}
+.red {
+    height: 20px;
+    width: 90px;
+    position: relative;
+    top: 150px;
+}
+.tweet {
+    height: 400px;
+    width: 300px;
+    position: relative;
+    top: 50px;
+    left: 50px;
+    margin: 20px;
+    border-radius: 50px;
+    background: red;
+    color: white;
+    padding: 10px;
+}
+
+.header {
+    height: 40px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: red;
+}
+
+.span1 {
+    color: white;
+    position: relative;
+    left: 10px;
+    top:10px;
+}
